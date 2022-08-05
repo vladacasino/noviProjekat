@@ -1,3 +1,3 @@
 function nimfo(){
-  alert("imam info da si")
+  alert("imam info da si nimfo")
 }
